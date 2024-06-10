@@ -1,0 +1,44 @@
+
+.header-link{
+    display: flex;
+    background-color: #1f2937;   
+    justify-content: right;
+    
+          
+}
+
+
+
+.header-link .head{
+    font-size: 24px;
+    color: #f9faf8;
+    margin-right: auto;
+    padding: 10px;
+    
+}
+
+.header-link div{
+    font-size: 18px;
+    color: #e5e7eb;   
+    
+}
+
+.header-link .link{   
+    width: 250px;
+    height: 70px;
+    padding: 6px;    
+    
+}
+
+.sectiontwo{
+    display: flex;
+    background-color: #1f2937;
+}
+
+.sectiontwo .sectleft .two{
+    font-size: 48px;
+    color: #f9faf8;
+
+
+}
+   
